@@ -1,0 +1,30 @@
+[
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "author": [
+      "admin"
+    ],
+    "title": "test",
+    "text": "test image",
+    "created_date": "2025-10-05T15:16:33Z",
+    "published_date": "2025-10-05T15:16:52Z",
+    "image": "blog_image/2025/10/06/image.png"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "author": [
+      "admin"
+    ],
+    "title": "침입자 02",
+    "text": "침입자 02",
+    "created_date": "2025-10-12T09:09:00Z",
+    "published_date": "2025-10-12T09:09:00Z",
+    "image": "blog_image/2025/10/12/FC_Barcelona.png"
+  }
+}
+]
